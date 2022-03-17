@@ -1,0 +1,104 @@
+C:\Users\Student\Documents\Lab1\obj\Debug\netcoreapp3.0\Lab1.csprojAssemblyReference.cache
+C:\Users\Student\Documents\Lab1\obj\Debug\netcoreapp3.0\staticwebassets\Lab1.StaticWebAssets.Manifest.cache
+C:\Users\Student\Documents\Lab1\obj\Debug\netcoreapp3.0\staticwebassets\Lab1.StaticWebAssets.xml
+C:\Users\Student\Documents\Lab1\obj\Debug\netcoreapp3.0\Lab1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Student\Documents\Lab1\obj\Debug\netcoreapp3.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\Lab1\obj\Debug\netcoreapp3.0\Lab1.AssemblyInfo.cs
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\Lab1.exe
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\Lab1.deps.json
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\Lab1.runtimeconfig.json
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\Lab1.runtimeconfig.dev.json
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\Lab1.dll
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\Lab1.pdb
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\EPPlusFree.dll
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\System.Text.Encodings.Web.dll
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\System.Text.Json.dll
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Laborant\Documents\Lab1\obj\Debug\netcoreapp3.0\Lab1.csprojAssemblyReference.cache
+C:\Users\Laborant\Documents\Lab1\obj\Debug\netcoreapp3.0\staticwebassets\Lab1.StaticWebAssets.Manifest.cache
+C:\Users\Laborant\Documents\Lab1\obj\Debug\netcoreapp3.0\staticwebassets\Lab1.StaticWebAssets.xml
+C:\Users\Laborant\Documents\Lab1\obj\Debug\netcoreapp3.0\Lab1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Laborant\Documents\Lab1\obj\Debug\netcoreapp3.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\Laborant\Documents\Lab1\obj\Debug\netcoreapp3.0\Lab1.AssemblyInfo.cs
+C:\Users\Laborant\Documents\Lab1\obj\Debug\netcoreapp3.0\Lab1.RazorTargetAssemblyInfo.cache
+C:\Users\Laborant\Documents\Lab1\obj\Debug\netcoreapp3.0\Lab1.csproj.CopyComplete
+C:\Users\Laborant\Documents\Lab1\obj\Debug\netcoreapp3.0\Lab1.dll
+C:\Users\Laborant\Documents\Lab1\obj\Debug\netcoreapp3.0\Lab1.pdb
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Laborant\Documents\Lab1\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Laborant\Documents\Lab1\obj\Debug\netcoreapp3.0\Lab1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\obj\Debug\netcoreapp3.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\obj\Debug\netcoreapp3.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\obj\Debug\netcoreapp3.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\obj\Debug\netcoreapp3.0\Lab1.AssemblyInfo.cs
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\obj\Debug\netcoreapp3.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\obj\Debug\netcoreapp3.0\Lab1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\obj\Debug\netcoreapp3.0\Lab1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\obj\Debug\netcoreapp3.0\Lab1.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\obj\Debug\netcoreapp3.0\Lab1.pdb
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\Lab1.StaticWebAssets.xml
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\Lab1.exe
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\Lab1.deps.json
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\Lab1.runtimeconfig.json
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\Lab1.runtimeconfig.dev.json
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\Lab1.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\Lab1.pdb
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\EPPlusFree.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\System.Text.Encodings.Web.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\System.Text.Json.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\obj\Debug\netcoreapp3.0\staticwebassets\Lab1.StaticWebAssets.Manifest.cache
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\obj\Debug\netcoreapp3.0\Lab1.RazorTargetAssemblyInfo.cache
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\obj\Debug\netcoreapp3.0\Lab1.csproj.CopyComplete
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\obj\Debug\netcoreapp3.0\Lab1.genruntimeconfig.cache
+C:\Users\Patryk\Documents\Uczelnia\Magisterka S2\Zaaw techniki programowania aplikacji - Goluda\Lab1\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
